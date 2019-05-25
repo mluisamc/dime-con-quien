@@ -6,7 +6,7 @@ import { THEMOVIEDB_API_BASE_URL, THEMOVIEDB_API_KEY } from "../config";
  * Qet the query string from a map of parameters and adds the API_KEY.
  *
  * Example of use: {with_people: [1, 2]} => ?api_key=...&with_people=1%2C2
- * 
+ *
  * @param {values} values Object with pairs of values.
  * @return {String} The query string.
  */

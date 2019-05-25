@@ -8,6 +8,6 @@ export const THEMOVIEDB_API_BASE_URL_IMAGES_PROFILES =
   "https://image.tmdb.org/t/p/w185";
 /* Base url for posters images */
 export const THEMOVIEDB_API_BASE_URL_IMAGES_POSTERS =
-  "https://image.tmdb.org/t/p/w185";
+  "https://image.tmdb.org/t/p/w342";
 /* Base url form movie info */
 export const THEMOVIEDB_BASE_URL_MOVIE = "https://www.themoviedb.org/movie/";
