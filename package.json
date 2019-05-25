@@ -12,7 +12,9 @@
     "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm run dev"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "nouislider": "13.1.0",
+    "querystring": "^0.2.0",
     "v-tooltip": "2.0.0-rc.33",
     "vue": "2.6.6",
     "vue-carousel": "0.17.0",
