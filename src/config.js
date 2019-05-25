@@ -1,7 +1,7 @@
 /* API from https://developers.themoviedb.org */
 export const THEMOVIEDB_API_KEY = "c5403d019b3788535cddb9234acdc8ef";
 /* Base API url */
-export const THEMOVIEDB_API_BASE_URL = "http://api.themoviedb.org/3";
+export const THEMOVIEDB_API_BASE_URL = "https://api.themoviedb.org/3";
 
 /* Base url for profile images */
 export const THEMOVIEDB_API_BASE_URL_IMAGES_PROFILES =
